@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715228420094",
+    "firebase_url": "https://movieseats-3ea54-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movieseats-3ea54",
+    "storage_bucket": "movieseats-3ea54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715228420094:android:86acbe03bae4bc00d712af",
+        "android_client_info": {
+          "package_name": "com.example.movieseats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715228420094-vo8uu1c8igm9j9isvjpr9nolcd11fpaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mBVBmhZpLUQAwWNiy6lngxrnYr99Y7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715228420094-vo8uu1c8igm9j9isvjpr9nolcd11fpaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
